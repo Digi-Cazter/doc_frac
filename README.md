@@ -2,7 +2,7 @@
 
 This gem uses the DocFrac unix utility for doing document conversion. Converts between RTF, HTML and text documents.
 
-[DocFrac Website](http://docfrac.net/wordpress/)
+Install the utility from here, [DocFrac Website](http://docfrac.net/wordpress/)
 
 I created this gem really quick for a need I had, please feel free to contribute to make it better.
 
